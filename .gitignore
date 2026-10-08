@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 密钥/环境（绝不提交）
+.env
+*.env
+secrets.*
+
+# 运行数据（在 DATA_DIR，不在本仓库，双保险）
+学习进度.csv
+pending.json
+*.bak
